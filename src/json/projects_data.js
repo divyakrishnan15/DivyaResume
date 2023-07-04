@@ -183,4 +183,120 @@ export const projectjson = [
     ],
     tools: "HTML, Tailwind CSS, Pagination, Filter, Image Carousel",
   },
+  {
+    id: 7,
+    projname: "Password Generator in Reactjs",
+    projimg: require("../../src/assets/project/pwdgenReactjs/ReactPasswordgen.png"),
+    deployed: require("../../src/assets/projimg/github.png"),
+    url: "https://divyakrishnan15.github.io/weatherapp/",
+    images: [
+      {
+        img: require("../../src/assets/project/pwdgenReactjs/ReactPasswordgen1.png"),
+        text: "weather forecast 5 days",
+      },
+      {
+        img: require("../../src/assets/project/pwdgenReactjs/ReactPasswordgen.png"),
+        text: "local storage of already seached cities",
+      },
+    ],
+    tools: "Reactjs,useRef hook,copy to clipboard,slider input",
+  },
+  {
+    id: 8,
+    projname: "Readme and SVG in Nodejs",
+    projimg: require("../../src/assets/project/readmeSVGNodejs/svgcreattionandjesttest.png"),
+    deployed: require("../../src/assets/projimg/github.png"),
+    url: "https://divyakrishnan15.github.io/weatherapp/",
+    images: [
+      {
+        img: require("../../src/assets/project/readmeSVGNodejs/svgcreattionandjesttest.png"),
+        text: "weather forecast 5 days",
+      },
+      {
+        img: require("../../src/assets/project/readmeSVGNodejs/svgcreattionandjesttest1.png"),
+        text: "local storage of already seached cities",
+      },
+      {
+        img: require("../../src/assets/project/readmeSVGNodejs/svgcreattionandjesttest2.png"),
+        text: "weather forecast 5 days",
+      },
+      {
+        img: require("../../src/assets/project/readmeSVGNodejs/svgcreattionandjesttest3.png"),
+        text: "local storage of already seached cities",
+      },
+      {
+        img: require("../../src/assets/project/readmeSVGNodejs/svgcreattionandjesttest4.png"),
+        text: "weather forecast 5 days",
+      },
+      {
+        img: require("../../src/assets/project/readmeSVGNodejs/svgcreattionandjesttest5.png"),
+        text: "local storage of already seached cities",
+      },
+      {
+        img: require("../../src/assets/project/readmeSVGNodejs/readme1.png"),
+        text: "weather forecast 5 days",
+      },
+      {
+        img: require("../../src/assets/project/readmeSVGNodejs/readme2.png"),
+        text: "local storage of already seached cities",
+      },
+      {
+        img: require("../../src/assets/project/readmeSVGNodejs/readme3.png"),
+        text: "local storage of already seached cities",
+      },
+    ],
+    tools: "Nodejs, inquirer to get user input from command line",
+  },
+  {
+    id: 9,
+    projname: "Note taking App in Expressjs",
+    projimg: require("../../src/assets/project/NoteTakingAppExpressjs/noteapp.png"),
+    deployed: require("../../src/assets/projimg/github.png"),
+    url: "https://divyakrishnan15.github.io/weatherapp/",
+    images: [
+      {
+        img: require("../../src/assets/project/NoteTakingAppExpressjs/noteapp.png"),
+        text: "weather forecast 5 days",
+      },
+      {
+        img: require("../../src/assets/project/NoteTakingAppExpressjs/noteapp1.png"),
+        text: "local storage of already seached cities",
+      },
+      {
+        img: require("../../src/assets/project/NoteTakingAppExpressjs/noteapp2.png"),
+        text: "local storage of already seached cities",
+      },
+      {
+        img: require("../../src/assets/project/NoteTakingAppExpressjs/noteapp3.png"),
+        text: "local storage of already seached cities",
+      },
+      {
+        img: require("../../src/assets/project/NoteTakingAppExpressjs/noteapp4.png"),
+        text: "local storage of already seached cities",
+      },
+      {
+        img: require("../../src/assets/project/NoteTakingAppExpressjs/noteapp5del.png"),
+        text: "local storage of already seached cities",
+      },
+    ],
+    tools: "Expressjs, router, middleware,uuid",
+  },
+  {
+    id: 10,
+    projname: "Employement tracker App in Expressjs,mysql",
+    projimg: require("../../src/assets/project/EmploymentTrackerExpressMysql/EmployeeDB1.png"),
+    deployed: require("../../src/assets/projimg/github.png"),
+    url: "https://divyakrishnan15.github.io/weatherapp/",
+    images: [
+      {
+        img: require("../../src/assets/project/EmploymentTrackerExpressMysql/EmployeeDB2.png"),
+        text: "weather forecast 5 days",
+      },
+      {
+        img: require("../../src/assets/project/EmploymentTrackerExpressMysql/EmployeeDB3.png"),
+        text: "local storage of already seached cities",
+      },
+    ],
+    tools: "Expressjs, mysql2, inquirer",
+  },
 ];
